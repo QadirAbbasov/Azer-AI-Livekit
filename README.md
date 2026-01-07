@@ -1,4 +1,4 @@
-# 🇦🇿 Azer AI – Gemini dəstəkli Canlı Ağıllı Səsli Asistan
+# Azer AI – Gemini dəstəkli Canlı Ağıllı Səsli Asistan
 
 **Azer AI**, LiveKit infrastrukturu üzərində qurulmuş, **Gemini AI** modelindən istifadə edən, real-time səsli ünsiyyətə malik ağıllı asistandır.  
 Asistan kompüter nəzarəti, media idarəsi, internet xidmətləri və yaddaş əsaslı planlama funksiyaları ilə təchiz olunub.
